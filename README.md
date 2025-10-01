@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I’m Yiğit Kadir Türk from Kozmos Yazılım Anadolu Lisesi<br><br>🔭 I’m working as a front-end developer intern.<br>📚 I'm currently learning Flask and React.<br>⚡ In my free time I work on personal coding projects and participate in development communities.</p>
+I am 18 years old and graduated from Cozmos Software Anatolian High School. I am currently studying for an associate degree at Istanbul University. I am working to improve myself. For the past two years, I have been actively working with professional companies and providing services. Throughout my student years, I spearheaded projects in various fields and achieved international success. Two years ago, I shifted my focus entirely to Frontend Development. Since then, I have been keeping up with the latest technologies and striving to create user experience-driven work. I am open to learning new things and collaborating.
 
 ###
 
@@ -41,13 +41,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
