@@ -17,7 +17,7 @@
 
 ###
 
-I am 18 years old and graduated from Cozmos Software Anatolian High School. I am currently studying for an associate degree at Istanbul University. I am working to improve myself. For the past two years, I have been actively working with professional companies and providing services. Throughout my student years, I spearheaded projects in various fields and achieved international success. Two years ago, I shifted my focus entirely to Frontend Development. Since then, I have been keeping up with the latest technologies and striving to create user experience-driven work. I am open to learning new things and collaborating.
+I'm a graduate of Kozmos Yazılım Anadolu High School. I'm currently working as a peer educator on a contract basis at my alma mater and continue to develop corporate projects with my own company, ARIATÜRK Software. I'm currently a Marketing student at Istanbul University. I'm working to improve myself. For the past two years, I've been actively working with and providing services to professional companies. Throughout my student years, I have carried out projects in various fields and achieved international success. Two years ago, I shifted my focus entirely to Frontend Development. Since then, I've been following the latest technologies and striving to create user experience-focused work. I'm open to learning new things and collaborating.
 
 ###
 
